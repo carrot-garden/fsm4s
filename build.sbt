@@ -1,14 +1,11 @@
-import java.io.File
-
-import com.typesafe.config.ConfigFactory
-
 name := "fsm4s"
+organization := "io.thoughtcraft"
 
 version := "1.0"
 
 scalaVersion := "2.11.11"
 
-crossScalaVersions := Seq("2.10", "2.11", "2.12")
+crossScalaVersions := Seq("2.10.6", "2.11.6", "2.12.1")
 
 libraryDependencies ++= {
   Seq[ModuleID](

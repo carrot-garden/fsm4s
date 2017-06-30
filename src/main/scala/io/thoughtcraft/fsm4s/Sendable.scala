@@ -1,4 +1,4 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
 
 trait Sendable {
   def send(msg: Any): Unit

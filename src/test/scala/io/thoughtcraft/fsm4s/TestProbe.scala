@@ -1,14 +1,14 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
 
+import fsm4s.Sendable
 import org.scalactic.source
-import org.scalatest.Assertion
 import org.scalatest.Matchers
 import org.scalatest.Succeeded
-
-import scala.collection.immutable.Queue
 import org.scalatest.compatible.Assertion
 import org.scalatest.exceptions
 import org.scalatest.exceptions.TestFailedException
+
+import scala.collection.immutable.Queue
 
 /**
   * Created by cwei on 24/5/17.

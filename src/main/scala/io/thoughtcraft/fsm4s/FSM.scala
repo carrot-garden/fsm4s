@@ -1,7 +1,9 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
+
+import io.thoughtcraft.fsm4s
 
 import scala.collection.mutable
-import language.implicitConversions
+import scala.language.implicitConversions
 
 /**
   * Reference from FSM.scala - https://github.com/akka/akka/blob/master/akka-actor/src/main/scala/akka/actor/FSM.scala

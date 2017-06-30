@@ -1,4 +1,4 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
 
 final case class CurrentState[S](fsm: Sendable, state: S)
 

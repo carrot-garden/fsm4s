@@ -1,4 +1,6 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
+
+import io.thoughtcraft.fsm4s
 
 private[fsm4s] sealed trait State[S, D] {
   private type State = fsm4s.State[S, D]

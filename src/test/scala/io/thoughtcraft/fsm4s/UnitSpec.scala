@@ -1,4 +1,4 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
 
 import org.scalatest.Inside
 import org.scalatest.Inspectors

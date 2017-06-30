@@ -1,6 +1,7 @@
-package fsm4s
+package io.thoughtcraft.fsm4s
 
-import FSM.`→`
+import fsm4s.Event
+import fsm4s.Sendable
 
 /**
   * References from:
