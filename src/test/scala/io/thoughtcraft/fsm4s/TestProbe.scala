@@ -1,6 +1,5 @@
 package io.thoughtcraft.fsm4s
 
-import fsm4s.Sendable
 import org.scalactic.source
 import org.scalatest.Matchers
 import org.scalatest.Succeeded

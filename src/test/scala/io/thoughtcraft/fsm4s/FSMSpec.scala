@@ -1,8 +1,6 @@
 package io.thoughtcraft.fsm4s
 
-import fsm4s.Event
-import fsm4s.Sendable
-
+import FSM.`→`
 /**
   * References from:
   * a. FSMTransitionSpec.scala - https://github.com/akka/akka/blob/master/akka-actor-tests/src/test/scala/akka/actor/FSMTransitionSpec.scala
